@@ -60,6 +60,16 @@
 
 # Tugas Praktikum 1
 
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)
+
+![alt text](image-28.png)
+
 # Praktikum 5: Membangun Navigasi di Flutter
 
 ## Langkah 1: Siapkan project baru
@@ -95,3 +105,5 @@
 ![alt text](image-22.png)
 
 ![alt text](image-23.png)
+
+# Tugas Praktikum 2
