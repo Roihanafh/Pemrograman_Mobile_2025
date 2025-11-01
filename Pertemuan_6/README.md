@@ -107,3 +107,33 @@
 ![alt text](image-23.png)
 
 # Tugas Praktikum 2
+
+1. Untuk melakukan pengiriman data ke halaman berikutnya, cukup menambahkan informasi arguments pada penggunaan Navigator. Perbarui kode pada bagian Navigator menjadi seperti berikut.
+
+![alt text](image-29.png)
+
+2. Pembacaan nilai yang dikirimkan pada halaman sebelumnya dapat dilakukan menggunakan ModalRoute. Tambahkan kode berikut pada blok fungsi build dalam halaman ItemPage. Setelah nilai didapatkan, anda dapat menggunakannya seperti penggunaan variabel pada umumnya.
+
+![alt text](image-30.png)
+
+![alt text](image-32.png)
+
+![alt text](image-31.png)
+
+3. Pada hasil akhir dari aplikasi belanja yang telah anda selesaikan, tambahkan atribut foto produk, stok, dan rating. Ubahlah tampilan menjadi GridView seperti di aplikasi marketplace pada umumnya.
+
+![alt text](image-33.png)
+
+4. Silakan implementasikan Hero widget pada aplikasi belanja Anda 
+
+![alt text](image-34.png)
+
+terdapat animasi halus saat berpindah halaman
+
+![alt text](image-35.png)
+
+5. Sesuaikan dan modifikasi tampilan sehingga menjadi aplikasi yang menarik. Selain itu, pecah widget menjadi kode yang lebih kecil. Tambahkan Nama dan NIM di footer aplikasi belanja Anda.
+
+![alt text](image-36.png)
+
+![alt text](image-37.png)
